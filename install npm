@@ -1,0 +1,5 @@
+npm i -g gulp npm-check-updates
+ncu (ncu -a/u)
+npm i
+gulp
+npm i -g bower
